@@ -4,7 +4,7 @@
 
 My Dashboard is a lightweight Windows productivity app built for people who want a simple, always-available view of what is due next.
 
-> **Current status:** Free beta (v0.2.3)
+> **Current status:** Free beta (v0.3.1)
 
 ## What it does
 
