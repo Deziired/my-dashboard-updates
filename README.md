@@ -20,13 +20,11 @@ My Dashboard is a lightweight Windows productivity app built for people who want
 
 Your normal task list works locally without an account, Excel, or AI.
 
-## Download the Windows beta
+## Windows beta
 
-### [Download My Dashboard v0.2.3 for Windows (x64)](https://github.com/Deziired/my-dashboard-updates/releases/download/v0.2.3/MyDashboard_0.2.3_x64-setup.exe)
+The Windows installer is available in this repository's **Releases** section. Executable installers and updater files are distributed as release assets, not as README downloads.
 
-Run the installer after downloading it.
-
-The other files attached to the release are used by the app's update system; normal users only need the **`.exe` installer**.
+Install the latest version from Releases. Existing users can also update through **Settings → About / Updates → Check for Updates**.
 
 > **Windows warning:** Windows may show an unknown-publisher or SmartScreen warning while the app is still in beta. Only download releases from this repository.
 
@@ -58,7 +56,7 @@ This is an early public beta. If something is confusing, broken, or missing, ple
 
 ## Current limitation
 
-My Dashboard tracks deadlines, but v0.2.3 does **not** create Windows notification alarms.
+My Dashboard tracks deadlines but does **not** currently create Windows notification alarms.
 
 ---
 
